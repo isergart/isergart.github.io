@@ -1,2 +1,2 @@
-# isergart.github.io
-My site
+# beta.sergart.ru
+Jekyll site
