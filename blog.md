@@ -1,4 +1,4 @@
 ---
 title: Блог
-url: https://blog.sergart.ru
+redirect_to: 'https://blog.sergart.ru'
 ---
