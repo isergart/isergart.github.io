@@ -16,10 +16,9 @@
 title: KOVALCHUK
 email: info@sergart.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  Дизайнер и веб разработчик. 
-  <br>
+  Дизайнер и веб разработчик.  
   Успешно, решаю задачи в области: видео, графики 
-  и веб разработки полного цикла.<br>
+  и веб разработки полного цикла.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "beta.sergart.ru" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isergart
