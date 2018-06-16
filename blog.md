@@ -1,4 +1,4 @@
 ---
-title: Резюме
-permalink: https://blog.sergart.ru
+title: Блог
+url: https://blog.sergart.ru
 ---
