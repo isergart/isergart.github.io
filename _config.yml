@@ -17,7 +17,7 @@ title: KOVALCHUK
 email: info@sergart.ru
 description: >- # this means to ignore newlines until "baseurl:"
   Designer and web developer. Successfully, I solve problems in the field of: video, graphics and web development of a full cycle.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "beta.sergart.ru" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  isergart
 facebook_username: sergart
